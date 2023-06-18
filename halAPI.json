@@ -1,0 +1,40 @@
+{
+    "CursosIFAM": [
+        {
+            "id": "1" 
+            "periodos": "6" 
+            "nome": "TADS"
+            "turno": "Matutino",
+            "disciplinas": [
+                {
+                    "id": "1",
+                    "nome": "Rede de Computadores",
+                    "cargaHoraria": "80"
+                },
+                {
+                    "id": "2",
+                    "nome": "Engenharia de Software",
+                    "cargaHoraria": "120"
+                }
+            ]
+        },
+        {
+            "id": "1" 
+            "periodos": "8" 
+            "nome": "Física"
+            "turno": "Matutino",
+            "disciplinas": [
+                {
+                    "id": "1",
+                    "nome": "Calculo 1",
+                    "cargaHoraria": "70"
+                },
+                {
+                    "id": "2",
+                    "nome": "Algebra 1",
+                    "cargaHoraria": "70"
+                }
+            ]
+        }
+    ]
+}
